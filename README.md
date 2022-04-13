@@ -1,12 +1,13 @@
 
-## 정 희 재 ( 👩‍💻 아직은 백엔드 👩‍💻 )   
-Hello world 🙌  
+### 정 희 재 ( 👩‍💻 아직은 백엔드 👩‍💻 )   
+<br>
+### 🔥 Moto
 
-### MOTO  
-세상의 속도에 맞춰 갈 수 있는 개발자  
-항상 궁금해하고 고민하고 도전하는 개발자  
-배우고 나누는 개발자  
-이 페이지를 데이터와 수치로 꽉 채울 수 있게 노력하는 개발자
+---
+- 세상의 속도에 맞춰 갈 수 있는 개발자  
+- 항상 궁금해하고 고민하고 도전하는 개발자  
+- 배우고 나누는 개발자  
+- 이 페이지를 데이터와 수치로 꽉 채울 수 있게 노력하는 개발자!
 <br>
 <br>
 <br>
@@ -26,7 +27,6 @@ Hello world 🙌
 ### 🛠  Stack
 
 ---
-<div align=center> 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
@@ -38,7 +38,6 @@ Hello world 🙌
 <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 <img src="https://img.shields.io/badge/codedeploy-9D1620?style=flat-square&logo=Amazon AWS&logoColor=white"/>
-</div>
 
 <br>
 <br>
@@ -58,7 +57,6 @@ Hello world 🙌
 ---
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heejae&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heejae&theme=tokyonight)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fnzl08&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fnzl08&theme=tokyonight)
 

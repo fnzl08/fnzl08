@@ -1,9 +1,8 @@
 
-### 정 희 재 ( 👩‍💻 아직은 백엔드 👩‍💻 )   
+## 정 희 재 ( 👩‍💻 아직은 백엔드 👩‍💻 )   
 Hello world 🙌  
 
-#### MOTO  
-
+### MOTO  
 세상의 속도에 맞춰 갈 수 있는 개발자  
 항상 궁금해하고 고민하고 도전하는 개발자  
 배우고 나누는 개발자  
@@ -62,14 +61,4 @@ Hello world 🙌
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heejae&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heejae&theme=tokyonight)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
